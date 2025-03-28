@@ -1,6 +1,6 @@
 基于java,SpringBoot和Vue拼团旅游网景点酒店管理系统设计
 
-演示视频链接：https://live.csdn.net/v/369285
+演示视频链接：https://www.bilibili.com/video/BV15x421C7a5/
 
 整个项目实现的功能:
 
